@@ -6,7 +6,7 @@ This folder is very helpful for **Downloads** folder in your PC, as their are mu
 
 Currently this script works on windows only.
 
-[To make this script work in Linux, change \\\ to // in line 29]
+[To make this script work in Linux, change \\\ to \/ in line 29]
 
 ## Usage
 
